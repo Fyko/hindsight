@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "repository": "Fyko/hindsight",
+  "repository": "fyko/hindsight",
   "backfilledAt": "2026-08-03T10:36:26.721Z",
   "backfill": [
     {
@@ -1247,6 +1247,10 @@
     },
     {
       "date": "2026-10-08",
+      "stars": 0
+    },
+    {
+      "date": "2026-10-09",
       "stars": 0
     }
   ]
